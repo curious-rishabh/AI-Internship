@@ -1,2 +1,2 @@
 # AI
-AI Learnings
+AI-ML Learnings
